@@ -1,0 +1,1 @@
+# Treasury Decisions\n\n## Week 3 Update (2026-02-06)\n- No transactions recorded yet\n- Awaiting token distribution strategy\n- Monitoring  metrics\n\n## Overview\nThe treasury will be allocated to:\n- Compute costs (agents need GPUs)\n- Community incentives\n- Development bounties\n\nENS: clawspot.base.eth
